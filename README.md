@@ -23,12 +23,13 @@ This allows the chatbot to provide accurate, up-to-date, and human-like answers 
 - Provides personalized, user-friendly responses
 - Can be embedded into websites or portals
 
+
 ## 🛠️ Tech Stack
 
 | Component        | Tool / Platform                     |
 |------------------|--------------------------------------|
 | Chat Platform    | IBM Watson Assistant (Dialog Flow)   |
-| Backend (Optional) | IBM Cloud Functions / Node.js / Flask |
+| Backend  | IBM Cloud Functions / Node.js / Flask |
 | Deployment       | IBM Cloud, Web App, or LMS integration |
 
 ## 🔗 Useful Links
