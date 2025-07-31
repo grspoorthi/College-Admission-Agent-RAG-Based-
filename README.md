@@ -34,7 +34,7 @@ This allows the chatbot to provide accurate, up-to-date, and human-like answers 
 ## 🔗 Useful Links
 
 - [IBM Cloud Lite](https://cloud.ibm.com/registration)
-- [IBM Watsonx.ai](https://www.ibm.com/products/watsonx-ai)
+- [IBM Watsonx.ai](https://www.ibm.com/products/watsonx-assistant)
 - [RBI Official Website](https://www.rbi.org.in)
 - [NPCI FAQs](https://www.npci.org.in/what-we-do/upi/faqs)
 - [IBM SkillsBuild](https://skillsbuild.org)
