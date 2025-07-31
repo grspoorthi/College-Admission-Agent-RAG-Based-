@@ -33,9 +33,8 @@ This allows the chatbot to provide accurate, up-to-date, and human-like answers 
 | Backend  | IBM Cloud Functions / Node.js / Flask |
 | Deployment       | IBM Cloud, Web App, or LMS integration |
 
-## ->Try the Admission Agent
- [Click here to open the College Admission Assistant](https://web-chat.global.assistant.watson.appdomain.cloud/preview.html?backgroundImageURL=https%3A%2F%2Feu-gb.assistant.watson.cloud.ibm.com%2Fpublic%2Fimages%2Fupx-7389189f-dbc9-42f7-aba7-193aa58da8ee%3A%3Aacb3a769-abb0-49e6-97ca-965fa859b796&integrationID=61f7bf2a-fa76-4897-8fc7-e914589d8e53&region=eu-gb&serviceInstanceID=7389189f-dbc9-42f7-aba7-193aa58da8ee)
-
+## ->Try the Chatbot 
+[![Launch Chatbot](https://img.shields.io/badge/Launch-Chatbot-blue?style=for-the-badge)](https://web-chat.global.assistant.watson.appdomain.cloud/preview.html?backgroundImageURL=https%3A%2F%2Feu-gb.assistant.watson.cloud.ibm.com%2Fpublic%2Fimages%2Fupx-7389189f-dbc9-42f7-aba7-193aa58da8ee%3A%3Aacb3a769-abb0-49e6-97ca-965fa859b796&integrationID=61f7bf2a-fa76-4897-8fc7-e914589d8e53&region=eu-gb&serviceInstanceID=7389189f-dbc9-42f7-aba7-193aa58da8ee)
 
 ## 🔗 Useful Links
 
